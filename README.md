@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Falashade</h1>
 <h3 align="center">I'm a Web developer from Maryland with a passion for creating applications that are user friendly and accessible</h3>
 
-- 📫 How to reach me **falashadegreene@gmail.com**
+📫 How to reach me **falashadegreene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
